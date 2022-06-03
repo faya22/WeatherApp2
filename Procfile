@@ -1,0 +1,1 @@
+web: gunicorn weatherapp2.wsgi
